@@ -12,7 +12,7 @@
 - *Tools:* Angular CLI, Git, VS Code  
 
 ### 📊 GitHub Stats  
-![Yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaralfarouk646&show_icons=true&theme=dark)
+![Yara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yara-Tharwat&show_icons=true&theme=dark)
 
 ## 🛠 Tech Stack 
 <p align="left">
