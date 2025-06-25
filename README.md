@@ -1,7 +1,20 @@
-<h2 align="center">👋 أهلاً بكِ في ملفي الشخصي</h2>
-<h3 align="center">أنا يارا ثروت - Yara Tharwat</h3>
+<h3 align="center">
+  Hi there, I'm Yara Tharwat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand"/>
+</h3>
 <p align="center">
-  <b>مُطورة واجهات أمامية متخصصة في Angular | Front-end Developer (Angular)</b>
+  <b>Front-end Developer (Angular)</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yara-tharwat/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yara2563th@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-yara2563th@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/YaraTharw0t?tab=followers">
+    <img src="https://img.shields.io/github/followers/YaraTharw0t?style=for-the-badge&logo=github&label=Followers&logoColor=white" alt="GitHub followers"/>
+  </a>
 </p>
 
 <p align="center">
@@ -10,7 +23,7 @@
 
 <hr>
 
-<h3 align="center">🔥 التقنيات التي أستخدمها (Tech Stack)</h3>
+<h3 align="center">🔥 Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,bootstrap,tailwind,figma,git" alt="My Tech Stack" />
@@ -19,7 +32,7 @@
 
 <hr>
 
-<h3 align="center">📊 إحصائياتي ومقاييسي على GitHub</h3>
+<h3 align="center">📊 GitHub Stats & Metrics</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,16 +45,4 @@
 
 <p align="center">
   <img src="https://metrics.lecoq.io/YaraTharw0t?template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&lines=true&followup=true&repositories=true&repositories.limit=4&config.timezone=Africa/Cairo" alt="GitHub Metrics" />
-</p>
-
-<hr>
-
-<h3 align="center">📫 لنتواصل (Let's Connect)</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile-url" target="_blank">
-    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:yara2563th@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
 </p>
