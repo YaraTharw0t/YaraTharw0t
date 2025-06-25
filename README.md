@@ -1,5 +1,5 @@
 <h3 align="center">
- I'm Yara Tharwat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand"/>
+   I'm Yara Tharwat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand"/>
 </h3>
 <p align="center">
   <b>Front-end Developer (Angular)</b>
@@ -32,16 +32,23 @@
 
 <hr>
 
-<h3 align="center">📊 GitHub Stats & Metrics</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YaraTharw0t&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Yara's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraTharw0t&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Yara's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YaraTharw0t&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Yara's GitHub Stats" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraTharw0t&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Yara's Top Languages" />
+  </a>
+</p>
+
+<hr>
+
+<h3 align="center">🏆 GitHub Metrics</h3>
 
 <p align="center">
   <img src="https://metrics.lecoq.io/YaraTharw0t?template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&lines=true&followup=true&repositories=true&repositories.limit=4&config.timezone=Africa/Cairo" alt="GitHub Metrics" />
