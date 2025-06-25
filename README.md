@@ -48,13 +48,7 @@
 
 <hr>
 
-<h3 align="center">🏆 GitHub Metrics</h3>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/YaraTharw0t?template=classic&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&lines=true&followup=true&repositories=true&repositories.limit=4&config.timezone=Africa/Cairo" alt="GitHub Metrics" />
-</p>
-
-<hr>
 
 <h3 align="center">📫 Let's Connect</h3>
 <p align="center">
