@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9c/8b/0f/9c8b0f18e139a06d28953233ad7ddda5.gif" alt="Coding GIF" width="400">
+  <img src="" alt="Coding GIF" width="400">
 </p>
 
 <hr>
