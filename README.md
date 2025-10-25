@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="" alt="Coding GIF" width="400">
+  <img src="From KlickPin CF Pin on Favorites.gif" alt="Coding GIF" width="600">
 </p>
 
 <hr>
