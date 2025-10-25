@@ -1,11 +1,49 @@
-<h3 align="center">
-   I'm Yara Tharwat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" alt="Waving hand"/>
-</h3>
-<p align="center">
-  <b>Front-end Developer (Angular)</b>
-</p>
+
+
 
 <p align="center">
+  <img src="./assets/From KlickPin CF (55) Tumblr _ Purple themes Best books to read Pixel art.gif" alt="Coding GIF" width="1000">
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=95436b&center=true&vCenter=true&width=650&lines=Hello+there+I'm+Yara+👋;Frontend+Developer+With+(Angular)&steps=1" alt="Typing Effect" />
+</p>
+</p>
+<h4>About Me:</h4>
+<ul>
+   <li>🎓 Currently a student specializing in Business Information Systems (BIS).</li>
+   <li>🔧 I'm proficient in <strong>Angular</strong>
+,<strong>TypeScript</strong> ,<strong>HTML5</strong> , and <strong>CSS3.</strong>  I am passionate about building exceptional user interfaces (UIs) and ensuring a smooth, dynamic user experience (UX).</li>
+   <li>🔭 Currently focusing on mastering advanced state management techniques (like NgRx) and exploring responsive design principles to create pixel-perfect, modern web applications.</li>
+   <li>💬 Feel free to ask me about <strong>Angular Development</strong> , Component Architecture, <strong>UI/UX Principles</strong> and <strong>Responsive Design</strong> .</li>
+   <li>🎯 Passionate about becoming a <strong> Frontend Developer</strong> and leveraging technology to create beautiful, effective, and user-centric web solutions.</li>
+   <li>📫 How to reach me: <a href="mailto:yara2563th@gmail.com"> yara2563th@gmail.com.</a
+</li>
+</ul>
+🚀 Let's connect and build something amazing together!
+
+
+
+<h3 > Languages and Tools:</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,bootstrap,tailwind,figma,git" alt="My Tech Stack" />
+  </a>
+</p>
+
+
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YaraTharw0t&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaraTharw0t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+
+<hr>
+
+
+<h4>Connect With Me :</h4>
+ <p>
   <a href="https://www.linkedin.com/in/yara-tharwat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -15,47 +53,12 @@
   <a href="https://github.com/YaraTharw0t?tab=followers">
     <img src="https://img.shields.io/github/followers/YaraTharw0t?style=for-the-badge&logo=github&label=Followers&logoColor=white" alt="GitHub followers"/>
   </a>
-</p>
+</p> 
 
-<p align="center">
-  <img src="From KlickPin CF Pin on Favorites.gif" alt="Coding GIF" width="600">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-<hr>
-
-<h3 align="center">🔥 Tech Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,bootstrap,tailwind,figma,git" alt="My Tech Stack" />
-  </a>
-</p>
-
-<hr>
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YaraTharw0t&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Yara's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraTharw0t&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Yara's Top Languages" />
-  </a>
-</p>
-
-<hr>
-
-
-
-<h3 align="center">📫 Let's Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yara-tharwat/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yara2563th@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+###
