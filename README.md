@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RwbGVhNmh0NG5kYzJvYjhpaHl0NXVjZ296ZmN1eXl4d2xnbG83eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400">
+  <img src="https://i.pinimg.com/originals/9c/8b/0f/9c8b0f18e139a06d28953233ad7ddda5.gif" alt="Coding GIF" width="400">
 </p>
 
 <hr>
