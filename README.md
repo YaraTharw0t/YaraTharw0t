@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./assets/From KlickPin CF (55) Tumblr _ Purple themes Best books to read Pixel art.gif" alt="Coding GIF" width="1000">
   <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=95436b&center=true&vCenter=true&width=650&lines=Hello+there+I'm+Yara+👋;Frontend+Developer+With+(Angular)&steps=1" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=95436b&center=true&vCenter=true&width=650&lines=Hello+there+I'm+Yara+👋;Frontend+Developer+With+(Angular)+💻&steps=3" alt="Typing Effect" />
 </p>
 </p>
 <h4>About Me:</h4>
@@ -22,10 +22,10 @@
 
 
 
-<h3 > Languages and Tools:</h3>
-<p>
+<h2 align="center" > Languages and Tools:</h2>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,bootstrap,tailwind,figma,git" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,bootstrap,tailwind,figma,git,cpp,github" alt="My Tech Stack" />
   </a>
 </p>
 
@@ -42,8 +42,8 @@
 <hr>
 
 
-<h4>Connect With Me :</h4>
- <p>
+<h3 align="center">Connect With Me :</h3>
+ <p align="center">
   <a href="https://www.linkedin.com/in/yara-tharwat/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -56,9 +56,18 @@
 </p> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/pacman-contribution-graph.svg">
 </picture>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=95436b&center=true&vCenter=true&width=650&lines=Learning,+Coding,+and+growing+one+project+at+a+time+☕&steps=3" alt="Typing Effect" />
+</p>
+<p align="center">
+  <br> 
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=95436b&center=true&vCenter=true&width=550&lines=Challenge+Accepted.+Let's+Go+😉&steps=3" alt="Challenge Accepted Typing" style="vertical-align: middle;"/>
+  
+ 
+</p>
 
-###
