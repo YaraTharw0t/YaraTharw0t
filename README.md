@@ -25,7 +25,7 @@
 <h2 align="center" > Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,bootstrap,tailwind,figma,git,cpp,github" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,bootstrap,tailwind,figma,git,github,cpp," alt="My Tech Stack" />
   </a>
 </p>
 
