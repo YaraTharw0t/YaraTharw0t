@@ -29,6 +29,7 @@
   </a>
 </p>
 
+[![Yara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaraTharw0t&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
 
