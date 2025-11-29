@@ -32,8 +32,6 @@
 
 <hr>
 
-[![Yara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaraTharw0t&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 <h3 align="center">Connect With Me :</h3>
  <p align="center">
   <a href="https://www.linkedin.com/in/yara-tharwat/" target="_blank">
