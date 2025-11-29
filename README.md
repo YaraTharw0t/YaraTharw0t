@@ -32,10 +32,7 @@
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraTharw0t&layout=donut&theme=dark&hide_border=true" alt="Yara's Top Languages" />
-</div>
-
+[![Yara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaraTharw0t&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="center">Connect With Me :</h3>
  <p align="center">
