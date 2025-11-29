@@ -29,8 +29,11 @@
   </a>
 </p>
 
-[![Yara's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaraTharw0t&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YaraTharw0t&theme=aura_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YaraTharw0t&theme=aura_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaraTharw0t&theme=aura_dark" />
+</div>
 <hr>
 
 <h3 align="center">Connect With Me :</h3>
