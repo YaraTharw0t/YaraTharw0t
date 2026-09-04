@@ -35,7 +35,7 @@
 
 > I'm a **Front-End Angular Developer** who builds clean, accessible, and high-performance web applications[cite: 1]. Beyond writing component logic, I care deeply about modern web architecture — **Angular (v16–v20)**, **Clean Architecture**, **RxJS Observables**, **NgRx**, and **Signals** — and taking user interfaces all the way to production with pixel-perfect responsive designs[cite: 1].
 > 
-> Alongside core web development, I led the front-end strategy for **Learnify**, an AI-native university management and autistic child education platform, integrating complex RESTful APIs and real-time dashboards[cite: 1].
+> Alongside core web development, I led the front-end strategy for **Learnify**, an AI-native university management and autistic child education platform, integrating complex RESTful APIs and real-time dashboards.
 
 ---
 
@@ -43,12 +43,12 @@
 
 | 💼 Experience | 🎓 Education | 🏆 Key Role | 🧩 Problem Solving |
 | :--- | :--- | :--- | :--- |
-| **Front-End Trainee** @ Elevate Tech[cite: 1] | **B.Sc. Information Systems**, Obour Higher Institute (AHI)[cite: 1] | **Front-End Team Lead** @ Learnify[cite: 1] | **JavaScript & C++** (Algorithms & Data Structures)[cite: 1] |
+| **Front-End Trainee** @ Elevate Tech[cite: 1] | **B.Sc. Information Systems**, Obour Higher Institute (AHI)[cite: 1] | **Front-End Team Lead** @ Learnify[cite: 1] | **JavaScript & C++** (Algorithms & Data Structures)|
 
 ### 🎓 Education Details
 | Degree | Institution | Period | Grade |
 | :--- | :--- | :--- | :--- |
-| **B.Sc. Business Information Systems (BIS)**[cite: 1] | Obour Higher Institute for Management and Informatics (AHI)[cite: 1] | 09/2022 – 06/2026[cite: 1] | **GPA: 3.5 / 4.0 (Very Good)**[cite: 1] |
+| **B.Sc. Business Information Systems (BIS)**[cite: 1] | Obour Higher Institute for Management and Informatics (AHI)[cite: 1] | 09/2022 – 06/2026[cite: 1] | **GPA: 3.5 / 4.0 (Very Good)** |
 
 ---
 
@@ -64,13 +64,13 @@
 
 | Role | Company / Academy | Duration | Type |
 | :--- | :--- | :--- | :--- |
-| **Front-End Developer Trainee** | Elevate Tech | Jul 2025 – Jun 2026[cite: 1] | Internship[cite: 1] |
-| **Software Solution & Problem Solving Trainee** | Elevate Tech | May 2025 – Aug 2025[cite: 1] | Internship[cite: 1] |
-| **Programming Foundations Trainee** | Route Academy | Jun 2024 – Aug 2024[cite: 1] | Internship[cite: 1] |
+| **Front-End Developer Trainee** | Elevate Tech | Jul 2025 – Jun 2026[cite: 1] | Internship |
+| **Software Solution & Problem Solving Trainee** | Elevate Tech | May 2025 – Aug 2025[cite: 1] | Internship |
+| **Programming Foundations Trainee** | Route Academy | Jun 2024 – Aug 2024[cite: 1] | Internship |
 
 ### 🏅 Key Training Achievements
-* **@Elevate Tech:** Architected scalable single-page applications using Angular, applying SOLID principles and Clean Architecture across 3+ core modules[cite: 1]. Optimized reactive data flows with RxJS, integrating 10+ RESTful APIs and boosting responsiveness by 20%[cite: 1].
-* **@Problem Solving:** Engineered 50+ algorithmic solutions in JavaScript & C++, mastering Data Structures and Object-Oriented Programming (OOP) fundamentals[cite: 1].
+* **@Elevate Tech:** Architected scalable single-page applications using Angular, applying SOLID principles and Clean Architecture across 3+ core modules. Optimized reactive data flows with RxJS, integrating 10+ RESTful APIs and boosting responsiveness by 20%.
+* **@Problem Solving:** Engineered 50+ algorithmic solutions in JavaScript & C++, mastering Data Structures and Object-Oriented Programming (OOP) fundamentals.
 
 ---
 
@@ -78,19 +78,19 @@
 
 #### 🎓 **Learnify — AI-Native University Management Platform**
 > An advanced EdTech platform for university operations and autistic child education[cite: 1]. Managed the Front-End architecture, Standalone Components structure, dynamic dashboards, and custom routing handlers to reduce load times by 30%[cite: 1].
-* **Tech Stack:** `Angular (v16+)`, `TypeScript`, `RxJS`, `Tailwind CSS`, `PrimeNG`, `REST APIs`[cite: 1]
+* **Tech Stack:** `Angular (v16+)`, `TypeScript`, `RxJS`, `Tailwind CSS`, `PrimeNG`, `REST APIs`
 
 ---
 
 #### 🛍️ **E-Commerce Single Page Application (SPA)**
 > Developed a dynamic, fully featured E-commerce platform leveraging the Angular ecosystem, maximizing code reusability via custom standalone components, lazy loading, and RxJS state handling[cite: 1].
-* **Tech Stack:** `Angular`, `TypeScript`, `RxJS Observables`, `SCSS`, `Bootstrap`, `RESTful API`[cite: 1]
+* **Tech Stack:** `Angular`, `TypeScript`, `RxJS Observables`, `SCSS`, `Bootstrap`, `RESTful API`
 
 ---
 
 #### 🏥 **Hospital Management System**
 > A responsive multi-page medical dashboard interface featuring live patient schedules, event handling, dynamic DOM manipulations, and interactive user controls[cite: 1].
-* **Tech Stack:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Bootstrap`[cite: 1]
+* **Tech Stack:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Bootstrap`
 
 ---
 
