@@ -7,7 +7,7 @@
 
   <!-- Animated Name & Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yara+Tharwat+%F0%9F%90%B6;Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yara+Tharwat+%F0%9F%A6%8B;Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p><strong>Driven by curiosity, clean code, and passion for smooth user experiences.</strong></p>
