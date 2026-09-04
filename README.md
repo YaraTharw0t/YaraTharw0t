@@ -1,13 +1,16 @@
 <div align="center">
 
-  <!-- Banner GIF -->
+  <!-- Cozy Lofi Animated Banner -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pZXBia3R6ZnR6Ynk1a29vZXZ2aGlpZGhrdHd0NWRsbjNwa3JqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif" width="100%" alt="Cozy Developer Setup" />
 
   <br /><br />
 
-  <!-- Typing Animation Header -->
+  <!-- Animated Greeting Header -->
+  <h1>Hi, I'm Yara Tharwat 👋</h1>
+
+  <!-- Typing Animation (Cyan / Blue Accent) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD0031&center=true&vCenter=true&width=500&lines=Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
   <p><strong>Driven by curiosity, clean code, and passion for smooth user experiences.</strong></p>
@@ -73,11 +76,7 @@
   <br /><br />
 
   <!-- Pacman / Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
