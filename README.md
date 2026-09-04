@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- Banner GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-9d28506553ea.gif" width="100%" alt="Cozy Developer Setup" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pZXBia3R6ZnR6Ynk1a29vZXZ2aGlpZGhrdHd0NWRsbjNwa3JqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif" width="100%" alt="Cozy Developer Setup" />
 
-  <br />
+  <br /><br />
 
   <!-- Typing Animation Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD0031&center=true&vCenter=true&width=500&lines=Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DD0031&center=true&vCenter=true&width=500&lines=Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 
   <p><strong>Driven by curiosity, clean code, and passion for smooth user experiences.</strong></p>
@@ -41,19 +41,7 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="45" height="45"/> &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,figma,git,cpp" alt="Languages and Tools" />
 </div>
 
 ---
@@ -78,14 +66,18 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaraTharw0t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YaraTharw0t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=YaraTharw0t&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YaraTharw0t&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
   <br /><br />
 
-  <!-- Pacman Contribution Animation -->
-  <img src="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.src='https://cdn.jsdelivr.net/gh/platane/snk@output/github-contribution-grid-snake.svg'" />
+  <!-- Pacman / Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
 
