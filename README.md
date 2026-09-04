@@ -5,12 +5,9 @@
 
   <br /><br />
 
-  <!-- Animated Greeting Header -->
-  <h1>Hi, I'm Yara Tharwat 👋</h1>
-
-  <!-- Typing Animation -->
+  <!-- Animated Name & Title (Soft Pink / Purple Gradient Vibe) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Yara+Tharwat+%F0%9F%90%B6;Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast" alt="Typing SVG" />
   </a>
 
   <p><strong>Driven by curiosity, clean code, and passion for smooth user experiences.</strong></p>
@@ -36,9 +33,9 @@
 | :--- | :--- | :--- |
 | Architecting responsive, high-performance Angular apps | Led Front-End engineering for Learnify (EdTech Platform) | Crafting intuitive UIs, Standalone Components & RxJS flows |
 
-I'm a **Front-End Angular Developer** who builds clean, accessible, and high-performance web applications. Beyond writing component logic, I care deeply about modern web architecture — **Angular (v16–v20)**, **Clean Architecture**, **RxJS Observables**, **NgRx**, and **Signals** — and taking user interfaces all the way to production with pixel-perfect responsive designs.
-
-Alongside core web development, I led the front-end strategy for **Learnify**, an AI-native university management and autistic child education platform, integrating complex RESTful APIs and real-time dashboards.
+> I'm a **Front-End Angular Developer** who builds clean, accessible, and high-performance web applications[cite: 1]. Beyond writing component logic, I care deeply about modern web architecture — **Angular (v16–v20)**, **Clean Architecture**, **RxJS Observables**, **NgRx**, and **Signals** — and taking user interfaces all the way to production with pixel-perfect responsive designs[cite: 1].
+> 
+> Alongside core web development, I led the front-end strategy for **Learnify**, an AI-native university management and autistic child education platform, integrating complex RESTful APIs and real-time dashboards[cite: 1].
 
 ---
 
@@ -46,12 +43,12 @@ Alongside core web development, I led the front-end strategy for **Learnify**, a
 
 | 💼 Experience | 🎓 Education | 🏆 Key Role | 🧩 Problem Solving |
 | :--- | :--- | :--- | :--- |
-| **Front-End Trainee** @ Elevate Tech | **B.Sc. Information Systems**, Obour Higher Institute (AHI) | **Front-End Team Lead** @ Learnify | **JavaScript & C++** (Algorithms & Data Structures) |
+| **Front-End Trainee** @ Elevate Tech[cite: 1] | **B.Sc. Information Systems**, Obour Higher Institute (AHI)[cite: 1] | **Front-End Team Lead** @ Learnify[cite: 1] | **JavaScript & C++** (Algorithms & Data Structures)[cite: 1] |
 
 ### 🎓 Education Details
 | Degree | Institution | Period | Grade |
 | :--- | :--- | :--- | :--- |
-| **B.Sc. Business Information Systems (BIS)** | Obour Higher Institute for Management and Informatics (AHI) | 09/2022 – 06/2026 | **GPA: 3.5 / 4.0 (Very Good)** |
+| **B.Sc. Business Information Systems (BIS)**[cite: 1] | Obour Higher Institute for Management and Informatics (AHI)[cite: 1] | 09/2022 – 06/2026[cite: 1] | **GPA: 3.5 / 4.0 (Very Good)**[cite: 1] |
 
 ---
 
@@ -67,33 +64,33 @@ Alongside core web development, I led the front-end strategy for **Learnify**, a
 
 | Role | Company / Academy | Duration | Type |
 | :--- | :--- | :--- | :--- |
-| **Front-End Developer Trainee** | Elevate Tech | Jul 2025 – Jun 2026 | Internship |
-| **Software Solution & Problem Solving Trainee** | Elevate Tech | May 2025 – Aug 2025 | Internship |
-| **Programming Foundations Trainee** | Route Academy | Jun 2024 – Aug 2024 | Internship |
+| **Front-End Developer Trainee** | Elevate Tech | Jul 2025 – Jun 2026[cite: 1] | Internship[cite: 1] |
+| **Software Solution & Problem Solving Trainee** | Elevate Tech | May 2025 – Aug 2025[cite: 1] | Internship[cite: 1] |
+| **Programming Foundations Trainee** | Route Academy | Jun 2024 – Aug 2024[cite: 1] | Internship[cite: 1] |
 
 ### 🏅 Key Training Achievements
-* **@Elevate Tech:** Architected scalable single-page applications using Angular, applying SOLID principles and Clean Architecture across 3+ core modules. Optimized reactive data flows with RxJS, integrating 10+ RESTful APIs and boosting responsiveness by 20%.
-* **@Problem Solving:** Engineered 50+ algorithmic solutions in JavaScript & C++, mastering Data Structures and Object-Oriented Programming (OOP) fundamentals.
+* **@Elevate Tech:** Architected scalable single-page applications using Angular, applying SOLID principles and Clean Architecture across 3+ core modules[cite: 1]. Optimized reactive data flows with RxJS, integrating 10+ RESTful APIs and boosting responsiveness by 20%[cite: 1].
+* **@Problem Solving:** Engineered 50+ algorithmic solutions in JavaScript & C++, mastering Data Structures and Object-Oriented Programming (OOP) fundamentals[cite: 1].
 
 ---
 
 ## 🚀 Featured Projects
 
 #### 🎓 **Learnify — AI-Native University Management Platform**
-> An advanced EdTech platform for university operations and autistic child education. Managed the Front-End architecture, Standalone Components structure, dynamic dashboards, and custom routing handlers to reduce load times by 30%.
-* **Tech Stack:** `Angular (v16+)`, `TypeScript`, `RxJS`, `Tailwind CSS`, `PrimeNG`, `REST APIs`
+> An advanced EdTech platform for university operations and autistic child education[cite: 1]. Managed the Front-End architecture, Standalone Components structure, dynamic dashboards, and custom routing handlers to reduce load times by 30%[cite: 1].
+* **Tech Stack:** `Angular (v16+)`, `TypeScript`, `RxJS`, `Tailwind CSS`, `PrimeNG`, `REST APIs`[cite: 1]
 
 ---
 
 #### 🛍️ **E-Commerce Single Page Application (SPA)**
-> Developed a dynamic, fully featured E-commerce platform leveraging the Angular ecosystem, maximizing code reusability via custom standalone components, lazy loading, and RxJS state handling.
-* **Tech Stack:** `Angular`, `TypeScript`, `RxJS Observables`, `SCSS`, `Bootstrap`, `RESTful API`
+> Developed a dynamic, fully featured E-commerce platform leveraging the Angular ecosystem, maximizing code reusability via custom standalone components, lazy loading, and RxJS state handling[cite: 1].
+* **Tech Stack:** `Angular`, `TypeScript`, `RxJS Observables`, `SCSS`, `Bootstrap`, `RESTful API`[cite: 1]
 
 ---
 
 #### 🏥 **Hospital Management System**
-> A responsive multi-page medical dashboard interface featuring live patient schedules, event handling, dynamic DOM manipulations, and interactive user controls.
-* **Tech Stack:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Bootstrap`
+> A responsive multi-page medical dashboard interface featuring live patient schedules, event handling, dynamic DOM manipulations, and interactive user controls[cite: 1].
+* **Tech Stack:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Bootstrap`[cite: 1]
 
 ---
 
@@ -104,11 +101,6 @@ Alongside core web development, I led the front-end strategy for **Learnify**, a
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YaraTharw0t&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YaraTharw0t&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  <br /><br />
-
-  <!-- Pacman / Snake Animation -->
-  <img src="https://raw.githubusercontent.com/YaraTharw0t/YaraTharw0t/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
 </div>
 
