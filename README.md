@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Cozy Lofi Animated Banner -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5pZXBia3R6ZnR6Ynk1a29vZXZ2aGlpZGhrdHd0NWRsbjNwa3JqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvIWwpVYz/giphy.gif" width="100%" alt="Cozy Developer Setup" />
+  <!-- Banner From Your Assets Folder -->
+  <img src="assets/Debbie Balboa.gif" width="100%" alt="Yara Tharwat Workspace" />
 
   <br /><br />
 
   <!-- Animated Greeting Header -->
   <h1>Hi, I'm Yara Tharwat 👋</h1>
 
-  <!-- Typing Animation (Cyan / Blue Accent) -->
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer+(Angular);UI%2FUX+and+Animation+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
@@ -19,7 +19,7 @@
   <a href="mailto:yara2563th@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-yara2563th%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://linkedin.com/in/yara-tharwat">
     <img src="https://img.shields.io/badge/LINKEDIN-YARA%20THARWAT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YaraTharw0t">
@@ -30,18 +30,32 @@
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-* 🎓 **Education:** B.Sc. in Business Information Systems — Al-Obour Higher Institute (AHI) | **GPA: 3.5 / 4.0 (Very Good)**
-* 🚀 **Leadership:** Led the Front-End engineering team for our graduation project **Learnify**.
-* ⚡ **Core Skills:** Proficient in **Angular (v16+)**, **TypeScript**, **JavaScript (ES6+)**, **RxJS**, **HTML5**, and **CSS3/SCSS**.
-* 🎯 **Current Focus:** Mastering Advanced State Management (**NgRx**, **Signals**) and 3D Web Graphics (**Three.js**).
-* 💡 **Ask me about:** Angular Architecture, Standalone Components, Component Lifecycle, and UI/UX Integration.
-* 📬 **How to reach me:** [yara2563th@gmail.com](mailto:yara2563th@gmail.com)
+| 🎯 Mission | 🏆 Achievement | 🎨 Passion |
+| :--- | :--- | :--- |
+| Architecting responsive, high-performance Angular apps | Led Front-End engineering for Learnify (EdTech Platform) | Crafting intuitive UIs, Standalone Components & RxJS flows |
+
+I'm a **Front-End Angular Developer** who builds clean, accessible, and high-performance web applications. Beyond writing component logic, I care deeply about modern web architecture — **Angular (v16–v20)**, **Clean Architecture**, **RxJS Observables**, **NgRx**, and **Signals** — and taking user interfaces all the way to production with pixel-perfect responsive designs.
+
+Alongside core web development, I led the front-end strategy for **Learnify**, an AI-native university management and autistic child education platform, integrating complex RESTful APIs and real-time dashboards.
 
 ---
 
-### 🛠️ Languages and Tools
+## ⚡ Quick Stats & Education
+
+| 💼 Experience | 🎓 Education | 🏆 Key Role | 🧩 Problem Solving |
+| :--- | :--- | :--- | :--- |
+| **Front-End Trainee** @ Elevate Tech | **B.Sc. Information Systems**, Obour Higher Institute (AHI) | **Front-End Team Lead** @ Learnify | **JavaScript & C++** (Algorithms & Data Structures) |
+
+### 🎓 Education Details
+| Degree | Institution | Period | Grade |
+| :--- | :--- | :--- | :--- |
+| **B.Sc. Business Information Systems (BIS)** | Obour Higher Institute for Management and Informatics (AHI) | 09/2022 – 06/2026 | **GPA: 3.5 / 4.0 (Very Good)** |
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,figma,git,cpp" alt="Languages and Tools" />
@@ -49,23 +63,41 @@
 
 ---
 
-### 🚀 Featured Projects
+## 💼 Professional Experience & Training
 
-#### 🎓 **Learnify — AI-Native University Management Platform**
-> An advanced EdTech platform for university operations and autistic child education. Managed the Front-End architecture, Standalone Components structure, dynamic dashboards, and RESTful API state integration.
+| Role | Company / Academy | Duration | Type |
+| :--- | :--- | :--- | :--- |
+| **Front-End Developer Trainee** | Elevate Tech | Jul 2025 – Jun 2026 | Internship |
+| **Software Solution & Problem Solving Trainee** | Elevate Tech | May 2025 – Aug 2025 | Internship |
+| **Programming Foundations Trainee** | Route Academy | Jun 2024 – Aug 2024 | Internship |
 
-* **Tech Stack:** `Angular 16+`, `TypeScript`, `RxJS`, `Tailwind CSS`, `PrimeNG`, `REST APIs`
+### 🏅 Key Training Achievements
+* **@Elevate Tech:** Architected scalable single-page applications using Angular, applying SOLID principles and Clean Architecture across 3+ core modules. Optimized reactive data flows with RxJS, integrating 10+ RESTful APIs and boosting responsiveness by 20%.
+* **@Problem Solving:** Engineered 50+ algorithmic solutions in JavaScript & C++, mastering Data Structures and Object-Oriented Programming (OOP) fundamentals.
 
 ---
 
-#### 🏥 **Hospital Healthcare Web Platform**
-> A responsive multi-page web application featuring patient appointment scheduling, department navigation, and responsive UI controls.
+## 🚀 Featured Projects
 
+#### 🎓 **Learnify — AI-Native University Management Platform**
+> An advanced EdTech platform for university operations and autistic child education. Managed the Front-End architecture, Standalone Components structure, dynamic dashboards, and custom routing handlers to reduce load times by 30%.
+* **Tech Stack:** `Angular (v16+)`, `TypeScript`, `RxJS`, `Tailwind CSS`, `PrimeNG`, `REST APIs`
+
+---
+
+#### 🛍️ **E-Commerce Single Page Application (SPA)**
+> Developed a dynamic, fully featured E-commerce platform leveraging the Angular ecosystem, maximizing code reusability via custom standalone components, lazy loading, and RxJS state handling.
+* **Tech Stack:** `Angular`, `TypeScript`, `RxJS Observables`, `SCSS`, `Bootstrap`, `RESTful API`
+
+---
+
+#### 🏥 **Hospital Management System**
+> A responsive multi-page medical dashboard interface featuring live patient schedules, event handling, dynamic DOM manipulations, and interactive user controls.
 * **Tech Stack:** `HTML5`, `CSS3`, `JavaScript (ES6+)`, `Bootstrap`
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
